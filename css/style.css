@@ -126,3 +126,7 @@ body{
     font-weight: 500;
     line-height: 48px;
   }
+  .img-text{
+    font-family: Poppins;
+    padding-top: 20px;
+  }
