@@ -12,13 +12,13 @@
 
 **.** Technologies Used
 
-**.** Author
+**.** Contacts
 
-**.**Contanct
+**.** Author
 
 **.** License
 
-**.**
+
 # AKAN NAMES
 
 ## DESCRIPTION
@@ -72,6 +72,7 @@ Akan names are derived from Ghanian culture. Frequently in Ghana, children are g
 | Html| For the structure and layout of web document |
 | Css | For styling and designing website |
 | Javascript | For functionality of the website |
+| Bootstrap | For UI interface elements such as buttons and forms |
 
 # Contact
 
