@@ -60,6 +60,7 @@
     padding-bottom: 2px;
     font-size: 48px;
     text-shadow: 2px 2px 5px black; 
+    color: red;
 }
 h2{
   text-align: center;
@@ -119,4 +120,9 @@ body{
     padding: 20px;
     background-size: cover;
     background-position: center center;
+  }
+  .header-text{
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 48px;
   }
