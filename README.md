@@ -92,6 +92,7 @@ annekare3@gamail.com
 
  # Lincense
 
- MIT Lincense:
+
+[MIT](https://github.com/Annewangari/Akan-Names/blob/master/LICENSE)
 
  Copyright (c) 2020 Annewangari
